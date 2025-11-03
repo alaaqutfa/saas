@@ -1,0 +1,5 @@
+/** Auth **/
+.auth-content {
+    @apply max-w-64;
+}
+/** Auth End **/
